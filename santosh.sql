@@ -1,0 +1,1 @@
+SELECT * FROM collegeclubs.membershiptable3nf;
