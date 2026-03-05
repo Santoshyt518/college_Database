@@ -1,7 +1,7 @@
 CREATE DATABASE IF NOT EXISTS CollegeClubDB;
 USE CollegeClubDB;
 
--- 1NF: Establishing atomicity and a primary key
+
 CREATE TABLE StudentClub_1NF (
     StudentID INT NOT NULL,
     StudentName VARCHAR(100) NOT NULL,
